@@ -8,11 +8,13 @@
  - [ ] Banana! Bread
  - [ ] Basque Cheesecake
 - [x] [Brownies](Recipes/Brownies.md)
+- [ ] Chinese Pineapple Bread
 - [x] [Chocolate Chip Cookies](Chocolate-Chip-Cookies.md)
 - [ ] Croissant
 - [ ] Dalgona Latte
 - [ ] Earl Grey Shortcake
 - [ ] Flan
+- [ ] Fruit Tarts
 - [ ] Macarons
 - [ ] Mochi
 - [ ] Panna Cotta
