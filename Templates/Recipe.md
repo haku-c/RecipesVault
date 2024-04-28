@@ -10,7 +10,7 @@ tags:
 ### Ingredients
 #ingredients 
 - [x] 
-### Substitutions
+### Substitutions and Modifications
 > - 
 ---
 #### Supplies:
