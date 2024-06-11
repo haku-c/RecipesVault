@@ -3,7 +3,7 @@
 ```
 
 # Recipes List
- - [ ] [Baklava](Recipes/Baklava.md)
+ - [x] [Baklava](Recipes/Baklava.md)
  - [ ] Baklava Cheesecake
  - [ ] Banana! Bread
  - [ ] Basque Cheesecake
@@ -13,12 +13,17 @@
 - [ ] Croissant
 - [ ] Dalgona Latte
 - [ ] Earl Grey Shortcake
+- [ ] Egg Tarts
 - [ ] Flan
 - [ ] Fruit Tarts
+- [ ] Japanese Matcha Green Tea Mille Crepe Cake
 - [ ] Macarons
+- [ ] Matcha Strawberry Cream Bars
 - [ ] Mochi
 - [ ] Panna Cotta
 - [ ] Sfogliatelle
+- [x] [Strawberry Babka](StrawBerry-Babka.md)
+- [ ] Strawberry Matcha Roll Cake
 - [ ] Turkish Delight
 
 # Links

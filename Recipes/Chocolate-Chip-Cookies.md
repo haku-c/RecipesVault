@@ -3,8 +3,8 @@ aliases:
   - Chocolate Chip Cookie Cake
 source: https://www.recipetineats.com/chocolate-chip-cookies/
 tags:
-  - easy
-  - alliteration
+  - Easy
+  - Alliteration
 ---
 ### Chocolate Chip Cookie Cake 
 
