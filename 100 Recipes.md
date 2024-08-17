@@ -3,6 +3,7 @@
 ```
 
 # Recipes List
+ - [ ] Apple Roses
  - [x] [Baklava](Recipes/Baklava.md)
  - [ ] Baklava Cheesecake
  - [ ] Banana! Bread
@@ -10,20 +11,26 @@
 - [x] [Brownies](Recipes/Brownies.md)
 - [ ] Chinese Pineapple Bread
 - [x] [Chocolate Chip Cookies](Chocolate-Chip-Cookies.md)
+- [x] [Crepes](Crepes.md)
 - [ ] Croissant
-- [ ] Dalgona Latte
+- [ ] [Dalgona Latte](Dalgona-Latte.md)
+- [x] [Danish Pastry](Danish-Pastry.md)
 - [ ] Earl Grey Shortcake
-- [ ] Egg Tarts
+- [x] [Egg Tarts](Egg-Tarts.md)
 - [ ] Flan
+- [ ] [Focaccia](Focaccia.md)
 - [ ] Fruit Tarts
 - [ ] Japanese Matcha Green Tea Mille Crepe Cake
 - [ ] Macarons
 - [ ] Matcha Strawberry Cream Bars
+- [ ] [Mini Lava Chiffon Cake](Mini-Lava-Chiffon-Cake.md)
 - [ ] Mochi
 - [ ] Panna Cotta
+- [x] [Pasta](Pasta.md) 
 - [ ] Sfogliatelle
 - [x] [Strawberry Babka](StrawBerry-Babka.md)
 - [ ] Strawberry Matcha Roll Cake
+- [ ] Tiramisu
 - [ ] Turkish Delight
 
 # Links

@@ -5,9 +5,9 @@ source:
   - https://andrew-rea-zfrt.squarespace.com/basicsepisodes/sweet-and-savory-babka?rq=babka
   - https://www.youtube.com/watch?v=HmqHq2Nn7Hs
 tags:
-  - "#Medium"
+  - Medium
 ---
-### Recipe Name 
+### Strawberry Babka
 
 >Notes: 
 > - Considering this recipe comes from a Basics with Babish page, I think the recipe may soon cease to exist on the site. Here's documentation with a strawberry filling which I much preferred to the given cinnamon filling. A fun tip for proofing: leave a pot of warm water in the oven with your proofing dough (covered). It's important to keep the dough moist while proofing. 
