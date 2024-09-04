@@ -27,7 +27,7 @@ tags:
 - [ ] 2 grams of salt
 - [ ] 3 grams of sugar
 - [ ] 60 ml of water
-#### Filling for 6 tarts
+#### Filling for 6 tarts (exactly 6, no more no less)
 - [ ] $\frac {1} {3}$ cup water
 - [ ] $\frac {1} {2}$ cup granulated sugar
 - [ ] a cinnamon stick (this is unhalved from the original recipe)
@@ -38,7 +38,7 @@ tags:
 ### Substitutions and Modifications
 > - The dough and filling recipes are from separate recipes because I am not using heavy cream in the filling. 
 > - Did not use the appropriate egg tart molds. Used a muffin tin instead.
-> - If you don't want to put your oven to 500, you can do 410 F for around 23 to 25 minutes.
+> - If you don't want to put your oven to 500, you can do 410 F for around 20 to 25 minutes.
 ---
 #### Supplies:
 > - Preheat oven to 500 Fahrenheit
@@ -66,15 +66,15 @@ tags:
 2. Remove from the heat and let it cool for at least 15 minutes while you prepare the rest of the ingredients.
 3. In a separate medium saucepan scald the milk (heat until up to the boiling point but don’t let it boil).  
 4. Make a slurry with the flour and the tablespoons of milk. The slurry prevents clumping. Add the hot milk to the slurry in a stream while whisking. 
-5. 7. In a thin, steady stream pour the syrup into the milk/flour mixture, whisking constantly.
+5. In a thin, steady stream pour the syrup into the milk/flour mixture, whisking constantly.
 6. Return to the saucepan and cook the milk/flour mixture, whisking constantly over medium-low, until thick, 5 to 10 minutes.
 7. Put the egg yolks in a heat proof bowl. Add the thickened milk mixture to the egg yolks and whisk until combined.
 9. Pour the custard through a fine mesh sieve to strain out any chunky bits.
 #### Assemblage
 1. Cut roll into half an inch or 2 cm thick disks depending on the diameter of the disk.
-2. Place disks into either the tart tin or a muffin mold and use your thumbs to press the dough into the shape of the mold. 
-3. Allow the dough to sit in the refrigerator or freezer for 30 minutes to firm up (don't want the butter too warm).
-4. Pour the filling into the mold, about 80% of the way (will overflow).
+2. Place disks into either the tart tin or a muffin mold and use your thumbs to press the dough into the shape of the mold. The dough can be spread quite thin; translucent in some areas. 
+3. Allow the dough to sit in the refrigerator or freezer for 30 minutes to firm up (don't want the butter to be too warm). It holds shape better after having been cooled.
+4. Pour the filling into the mold, about 80% of the way (the souffle will rise in the oven).
 5. Bake at 500 F for around 15 minutes. Alternatively, 410 F for around 20 to 23 minutes.
 6. Let cool on a wire rack before eating!
 #### *FIN*:

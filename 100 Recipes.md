@@ -8,6 +8,7 @@
  - [ ] Baklava Cheesecake
  - [ ] Banana! Bread
  - [ ] Basque Cheesecake
+ - [x] [Bread Loaf](Recipes/Bread-Loaf.md)
 - [x] [Brownies](Recipes/Brownies.md)
 - [ ] Chinese Pineapple Bread
 - [x] [Chocolate Chip Cookies](Chocolate-Chip-Cookies.md)
@@ -18,7 +19,7 @@
 - [ ] Earl Grey Shortcake
 - [x] [Egg Tarts](Egg-Tarts.md)
 - [ ] Flan
-- [ ] [Focaccia](Focaccia.md)
+- [x] [Focaccia](Focaccia.md)
 - [ ] Fruit Tarts
 - [ ] Japanese Matcha Green Tea Mille Crepe Cake
 - [ ] Macarons

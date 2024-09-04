@@ -1,4 +1,4 @@
----
+ ---
 aliases: 
 source: 
 	- "https://www.youtube.com/watch?v=HTD-z1wd0tw"
@@ -12,6 +12,7 @@ tags:
 > 	- If your pan is old, just use parchment paper (don't bake on the bare pan with just oil). It will stick!
 > 	- Makes a 9 x 13 pan, leave time for adequate proofing to get a thicker bread. 
 > 	- Takes around 4 hours of proofing/baking. 
+> 	- Mix with a spatula instead of your fingers, as it is quite sticky
 ### Ingredients
 #ingredients 
 - [ ] 335 grams of warm water
