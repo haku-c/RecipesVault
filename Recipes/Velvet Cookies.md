@@ -1,9 +1,11 @@
 ---
 aliases: Red Velvet Cookies
 source: 
+- "https://sallysbakingaddiction.com/red-velvet-chocolate-chip-cookies/"
 tags:
+- Easy
 ---
-### Recipe Name 
+### Velvet Cookies
 
  >Notes: 
  > Don't forget to check if your baking soda still works (using lime juice or other citrus)
@@ -21,7 +23,7 @@ tags:
 - [ ] 1 egg
 - [ ] 1 tablespoon milk (you can try buttermilk)
 - [ ] 2 teaspoons vanilla extract
-- [ ] $\frac 3 4$ red food coloring
+- [ ] $\frac 3 4$ red food coloring (optional)
 - [ ] 180 grams chocolate chips
 ### Substitutions and Modifications
 > - I used coconut sugar instead of brown sugar. Common substitution. 
@@ -30,7 +32,7 @@ tags:
 ---
 #### Supplies:
 > - Stand mixer or hand mixer
-> - oven preheated to 350 
+> - Oven preheated to 350 
 
 ---
 #### Directions
