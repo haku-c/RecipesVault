@@ -2,6 +2,7 @@
 aliases: 
 source: My mother
 tags:
+  - Easy
 ---
 ### Recipe Name 
 
