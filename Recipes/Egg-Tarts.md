@@ -5,6 +5,7 @@ source:
   - https://www.youtube.com/watch?v=vucTYMqyA5k
   - https://www.daringgourmet.com/pasteis-de-nata-portuguese-custard-tarts/
   - https://www.youtube.com/watch?v=J1K8_SYe0Cg
+  - https://thewoksoflife.com/hong-kong-egg-tarts/
 tags:
   - Medium
 ---
@@ -39,6 +40,7 @@ tags:
 > - The dough and filling recipes are from separate recipes because I am not using heavy cream in the filling. 
 > - Did not use the appropriate egg tart molds. Used a muffin tin instead.
 > - If you don't want to put your oven to 500, you can do 410 F for around 20 to 25 minutes.
+> - If you don't have milk but you do have heavy cream, you can use the last linked recipe. Bake higher than 350 F and use thicker crusts (fill with less filling) or bake for longer than 26 minutes. 
 ---
 #### Supplies:
 > - Preheat oven to 500 Fahrenheit

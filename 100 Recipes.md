@@ -33,7 +33,7 @@
 - [ ] Strawberry Matcha Roll Cake
 - [ ] Tiramisu
 - [ ] Turkish Delight
-- [ ] Velvet Cookies
+- [x] [Velvet Cookies](Velvet-Cookies.md)
 
 # Links
 [Easy Recipes](easy_recipes.md)
