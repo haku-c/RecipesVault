@@ -1,4 +1,4 @@
----
+   ---
 aliases:
   - Portuguese Egg Tarts
 source:
@@ -63,7 +63,7 @@ tags:
 9. Refrigerate for 30 minutes and repeat. 
 10. Repeat for more layers. Alternate folding directions each set of folds. 
 11. After final folding, then roll out to around 3mm thickness. Then create a roll with the dough. Try to keep the roll very compact; use your finger tips to roll. Refrigerate for at least 30 minutes, the longer the better (some recipes say at least 2 hours to overnight). 
-#### Filling
+#### Filling (approx. 45 min)
 1. Place the water, sugar, cinnamon and lemon rind in a medium saucepan and bring it to a boil. Cook a minute and then kill the heat and let sit. 
 2. Remove from the heat and let it cool for at least 15 minutes while you prepare the rest of the ingredients.
 3. In a separate medium saucepan scald the milk (heat until up to the boiling point but don’t let it boil).  

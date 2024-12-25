@@ -28,7 +28,7 @@ tags:
 ### Substitutions and Modifications
 > - I used coconut sugar instead of brown sugar. Common substitution. 
 > - Instead of 1 tablespoon of milk, I used half tablespoon of cream and half tablespoon of water. Coconut sugar is drier than brown sugar and milk has much less fat than cream. Adding more fats with the cream while keeping the volume consistent. 
-> - I used 20 grams less brown sugar since it seemed like a lot of volume. 
+> - I used 20 grams less brown sugar than the linked recipe since it seemed like a lot of volume. 
 ---
 #### Supplies:
 > - Stand mixer or hand mixer

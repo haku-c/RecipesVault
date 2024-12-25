@@ -1,0 +1,5 @@
+/* Increase the spacing between list items
+================================================================= */
+.HyperMD-list-line {
+  padding-top: 10px !important;
+}

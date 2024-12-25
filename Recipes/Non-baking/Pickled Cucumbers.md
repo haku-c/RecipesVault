@@ -4,7 +4,7 @@ source: My mother
 tags:
   - Easy
 ---
-### Recipe Name 
+### Pickled Cucumbers 
 
  >Notes: 
  >- If you use sushi rice vinegar, it is already seasoned, so you don't have to add sugar and salt. 

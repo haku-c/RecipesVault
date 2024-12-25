@@ -3,15 +3,20 @@
 ```
 
 # Recipes List
+ - [ ] Aesthetic Pie
  - [ ] Apple Roses
+ - [ ] [Babka](Recipes/Babka.md)
  - [x] [Baklava](Recipes/Baklava.md)
  - [ ] Baklava Cheesecake
  - [ ] Banana! Bread
  - [ ] Basque Cheesecake
  - [x] [Bread Loaf](Recipes/Bread-Loaf.md)
 - [x] [Brownies](Recipes/Brownies.md)
+- [ ] Brownies (Slutty)
 - [ ] Chinese Pineapple Bread
 - [x] [Chocolate Chip Cookies](Chocolate-Chip-Cookies.md)
+- [x] [Cinnamon Rolls](Cinnamon-Rolls.md)
+- [ ] Coffee and Donuts
 - [x] [Crepes](Crepes.md)
 - [ ] Croissant
 - [ ] [Dalgona Latte](Dalgona-Latte.md)
@@ -28,6 +33,7 @@
 - [ ] Mochi
 - [ ] Panna Cotta
 - [x] [Pasta](Pasta.md) 
+- [ ] Sachertorte
 - [ ] Sfogliatelle
 - [x] [Strawberry Babka](StrawBerry-Babka.md)
 - [ ] Strawberry Matcha Roll Cake
