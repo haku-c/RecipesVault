@@ -15,6 +15,7 @@
 - [ ] Whisk
 - [ ] Cooling rack
 - [ ] Baking sheet
+- [ ] Oven Thermometer
 ### Nice to Have
 - [ ] Pasta attachment
 - [ ] Stand mixer

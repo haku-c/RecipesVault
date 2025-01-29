@@ -5,7 +5,7 @@
 # Recipes List
  - [ ] Aesthetic Pie
  - [ ] Apple Roses
- - [ ] [Babka](Recipes/Babka.md)
+ - [x] [Babka](Recipes/Babka.md)
  - [x] [Baklava](Recipes/Baklava.md)
  - [ ] Baklava Cheesecake
  - [ ] Banana! Bread
