@@ -23,6 +23,7 @@ tags:
 - [ ] 20 grams of oil and 20 grams of water for emulsion at end
 ### Substitutions and Modifications
 > - Rosemary for toppings is standard. Can put a variety of other things including flaky salt
+> - If you use other toppings, make sure they don't expel too much water, otherwise the crust won't be as crispy. 
 ---
 #### Supplies:
 > - Oven at 400 for 27-30 minutes. Original recipe is 450 for 25 minutes. 
